@@ -1,2 +1,2 @@
-<?php header('Location: Html/index.html') ; ?>
+<?php header('Location: Html/indext.html') ; ?>
 
