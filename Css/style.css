@@ -1,0 +1,1742 @@
+*{
+-webkit-box-sizing: border-box ;
+-moz-box-sizing: border-box ;
+-ms-box-sizing: border-box ;
+box-sizing: border-box;
+}
+p {
+color: #777;
+font-family: 'Kelly Slab', cursive;
+font-weight: bold;
+
+}
+
+body{
+overflow-x: hidden;
+
+}
+h1 ,h2 ,h3 ,h4, h5{
+font-weight:bold;
+text-transform: capitalize;
+    color:black;
+
+font-family: 'Trocchi', serif;
+}
+.container{
+width: 1100px;
+margin: auto;
+
+
+}
+body{
+height: 3200px;
+background-color: blue;
+font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav-bar{
+    color:white;
+    background-color: black;
+    margin-bottom:-122px;
+    height:238px;
+    margin-top: 0px;
+    padding: 0px;
+            overflow:visible; 
+
+    }
+    .navbar-light .navbar-nav .nav-link{
+        color:white;
+        text-transform: capitalize;
+font-weight: bold;
+            font-family: 'Fugaz One', cursive;
+        float: right;
+       
+
+    }
+
+
+    .navbar-light .navbar-toggler{
+        
+        background-color: blue;
+    }
+.nav-bar .navbar  .navbar-brand{
+
+
+            font-family: 'Fugaz One', cursive;
+
+    font-weight: bold;
+    font-size: 22px;
+    
+
+}
+
+    nav .links li.active a,nav .links li a:hover{
+
+color:#1abc9c;
+border-bottom: 3px solid #1abc9c;
+}
+    .navbar-light .navbar-nav .nav-link:hover{
+        
+        color: blue;
+        border-bottom: 3px solid blue;
+    }
+    .navbar-toggler {
+    padding: .25rem .25rem; 
+   
+}
+    
+    .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+     color: rgba(255,255,255,255); 
+}
+    
+/*nav .links{
+float:left;
+list-style: none;
+width: 80%;
+padding-left:100px;
+margin-top: 10px;
+background-color: black;
+        height:50px;
+
+    }*/
+    .tf{
+        text-align: center;
+        margin: auto;
+        font-size: 18px;
+        color: aliceblue;
+        margin-top: 7px;
+    }
+    
+   
+
+ /* 
+.navbar-nav li{
+text-transform: capitalize;
+font-weight: bold;
+display: inline-block;
+color: white;    
+}
+/*
+    
+    
+    .navbar-nav li a {
+text-decoration: none;
+color: white;
+cursor: pointer;
+margin: 0px;
+        padding: 0px;
+        
+    font-family: 'Trocchi', serif;
+
+} 
+   
+    .navbar-light .navbar-nav .nav-link {
+        color:white
+       }
+    
+    
+    
+    
+    
+    
+    
+    
+nav .loge:hover{
+color:#1abc9c;
+
+cursor: pointer;
+
+}  
+
+nav .links li.active a,nav .links li a:hover{
+
+color:#1abc9c;
+border-bottom: 3px solid #1abc9c;
+}
+    
+   
+    .navbar-expand-lg .navbar-nav {
+        margin-left: 0;
+        padding-left: 0;
+        margin-right:0px;
+        padding: 0;
+        margin-left: 155px;
+    }
+
+ 
+    .navbar-expand-lg .navbar-nav .nav-link{
+        margin-left:0;        
+        margin-right:0;
+
+        padding-left: 0;
+                padding-right: 0;
+
+        padding: 0;
+        margin: 0;
+    }
+    
+     
+    
+    */
+      .fa-google-plus:before,.fa-instagram:before,.fa-facebook-square:before,.fa-twitter-square:before,.fa-stumbleupon-circle:before,.fa-rss-square:before,.fa-pinterest:before {
+        font-size: 38px
+}
+    .navbar-expand-lg .navbar-collapse{
+        
+        padding-left: 471px;
+    }
+    
+    .panel-2 {
+  background-color:white;
+  min-height: 1000px;
+  -webkit-transform: skew(0deg, -6deg);
+margin: 0px;
+}
+.blackdiv{
+    display: block;
+    margin: 0px;
+    padding: 0px;
+        background-color:black;
+    height: 30px;    
+    width: 100%;
+border-style:dotted;
+    border-color: blue
+
+}
+    
+    
+    
+        .fa-google-plus:before,.fa-instagram:before,.fa-facebook-square:before,.fa-twitter-square:before,.fa-stumbleupon-circle:before,.fa-rss-square:before,.fa-pinterest:before {
+        margin: 0px;
+            padding: 0px;
+}
+    
+/*header{
+background-image: url(../images/download.jpg);
+background-size:cover;
+background-repeat: no-repeat;
+background-position: center;
+height: 800px;
+}   */
+/*  Formwork      */
+
+.services{
+display: block;
+overflow: hidden;
+margin: 0px auto;
+
+
+}
+.services h2{
+text-align: center;
+width: 100%;
+margin-left: -45px; 
+padding:50px 0px;     
+
+}
+
+
+/*  Formwork      */
+
+.head-border:after {
+content: '';
+display: block;
+width: 120px;
+height: 5px;
+background-color:#FF0000;
+margin: auto;
+}
+
+.services .item{
+float:left;
+width:32.3333%;
+text-align: center;
+background-color:white;
+cursor: pointer;
+border: 2px solid blue;
+margin:1% 0% 0% 1%;
+	background-color: #14bcc8;
+
+}
+.services .item i{
+
+color: blue;
+float: left;
+width: 100%;
+padding:100px 130px; 
+}
+.services .item .front .hp{
+position: absolute;
+left:10;
+        
+    }
+.services .item .front h3{
+position: absolute;
+top:180px;
+text-align: center;
+width: 100%;
+}
+.services .item .info{
+float: left;
+padding-top:50px; 
+padding:100px 0px 0px 0px; 
+}
+
+.services .item .info p{
+color:#888;
+font-weight: bold;
+}
+
+
+/*    */
+
+/* entire container, keeps perspective */
+.flip-container {
+perspective: 1000px;
+}
+/* flip the pane when hovered */
+.flip-container:hover .flipper, .flip-container.hover .flipper {
+transform: rotateY(180deg);
+}
+
+.flip-container, .front, .back {
+width: 320px;
+height: 300px;
+}
+
+/* flip speed goes here */
+.flipper {
+transition: 0.6s;
+transform-style: preserve-3d;
+position: relative;
+}
+
+/* hide back of pane during swap */
+.front, .back {
+backface-visibility: hidden;
+position: absolute;
+top: 0;
+left: 0;
+}
+
+/* front pane, placed above back */
+.front {
+z-index: 2;
+/* for firefox 31 */
+transform: rotateY(0deg);
+}
+
+/* back, initially hidden pane */
+.back {
+transform: rotateY(180deg);
+}
+/*    */
+
+
+.panel-2 .our-team{
+overflow: hidden;
+    margin: 10px;
+    background-color: #f8f9fa;
+    width: 100%;
+padding: 0px;
+    margin-top: 10px;
+}
+.our-team .box{
+margin:150px 0px;
+width:15%;
+float: left;
+
+}
+.our-team .box:first-child{
+    width:35%;
+}
+.our-team .box h2{margin-top: 0px;}
+.our-team .box p{color:#888;
+line-height: 1.9}
+
+.our-team .box:not(:first-child){
+width:14.25%;
+float: left;
+margin-right: 2%;
+cursor: pointer;
+position:relative;
+transition: all 2s ease-in-out;
+
+}
+
+.our-team .box img{
+width: 175px;
+height: 175px;
+width: 100%;
+}
+
+.our-team .box:not(:first-child) .overlay{
+position: absolute;
+top:0;
+left:0;
+right:0;
+bottom:0;
+width: 100%;
+height: 100%;
+text-align: center;
+display: none;
+color: white;
+font-weight: bold;
+}
+
+.our-team .box:not(:first-child) .overlay h5 {
+
+margin: 0px;
+padding: 70px 0px 0px 0px;
+line-height: 30px;
+font-size:18px; 
+color: white;
+
+
+}
+.our-team .box:not(:first-child) .overlay p {
+color: white;
+font-weight: bold;
+margin:10px;
+
+padding: 0px;
+font-size:10px; 
+}
+
+.our-team .box:not(:first-child):hover .overlay{
+background-color:blue;
+opacity: .8;
+display: block;
+}
+
+.our-team .box:not(:first-child):hover {
+transform:scale(1.3);
+
+
+}
+
+.center_y{ 
+position: relative;
+top: 50%;
+transform: translateY(-50%);
+}
+
+.center_x{
+position: relative;
+left: 50%;
+transform: translateX(-50%);
+
+}
+
+#slider-container{
+width: 100%;
+height: 600px;
+text-align: center;
+font-family:"arial",heletica,sans-serif;
+font-size:12px;
+background: #0000 url('https://static.tumblr.com/03fbbc566b081016810402488936fbae/pqpk3dn/MRSmlzpj3/tumblr_static_bg3.png') repeat 0 0;
+-webkit-animation: 10s linear 0s normal none infinite animate;
+-moz-animation: 10s linear 0s normal none infinite animate;
+-ms-animation: 10s linear 0s normal none infinite animate;
+-o-animation: 10s linear 0s normal none infinite animate;
+animation: 10s linear 0s normal none infinite animate;
+position: relative;
+    margin-left: 1%;
+}
+
+
+.slide img{
+
+border-radius: 50%;
+width: 150px;
+height: 150px;
+background-position: center;
+background-size: cover;
+
+}
+.slide {
+width: 100%;
+height: 100%;
+}
+.slide h1,.slide h5{ 
+color:black;
+font-weight: bold;
+font-size: 25px;
+
+}   
+.slide .p1{
+font-size: 18px;
+color: white;
+font-weight: bold;
+text-align: center;
+margin-top: 20px;
+}
+.slide .p2{
+font-size: 18px;
+color: white;
+font-weight: bold;
+text-align: center;
+color:black;
+font-weight: bold;    margin-top: 40px;
+
+}
+
+.slide .p3{
+font-size: 18px;
+color: white;
+font-weight: bold;
+text-align: center;
+color:black;
+font-weight: bold;
+margin-top: -15px;
+}
+
+
+
+.slide h1{
+text-align: center;
+width: 100%;
+
+}
+.slider-arrow {
+color: #fff;
+font-size: 50px;
+cursor: pointer;
+}
+
+#arrow-prev{
+left: 20px;
+position: absolute;
+}
+
+#arrow-next{
+right: 20px;
+position: absolute;
+}
+
+#dots-wrapper{
+display: flex;
+position: absolute;
+bottom: 30px;
+}
+
+.dot-navigation{
+width: 15px;
+height: 15px;
+border-radius: 100%;
+cursor: pointer;
+margin: 0 4px;
+border: 2px solid whitesmoke;
+transition: .5s background-color;
+}
+
+.dot-navigation:hover{
+background-color: cornflowerblue;
+}
+
+/* creating class active-dot which will get add into the dot that indicates what image is displayed */
+.active-dot {
+background-color: rosybrown;
+}
+/* fade animation */
+
+/**/  
+.fa-laptop-code:before{
+    
+    }
+
+@-webkit-keyframes animate {
+from {background-position:0 0;}
+to {background-position: 500px 0;}
+}
+
+@-moz-keyframes animate {
+from {background-position:0 0;}
+to {background-position: 500px 0;}
+}
+
+@-ms-keyframes animate {
+from {background-position:0 0;}
+to {background-position: 500px 0;}
+}
+
+@-o-keyframes animate {
+from {background-position:0 0;}
+to {background-position: 500px 0;}
+}
+
+@keyframes animate {
+from {background-position:0 0;}
+to {background-position: 500px 0;}
+}
+
+
+  span {
+
+  	font: 700 1em/1 "Oswald", sans-serif;
+  	letter-spacing: 0;
+  	padding: .25em 0 .325em;
+	  display: block;
+	  margin: 0 auto;
+  	text-shadow: 0 0 80px rgba(255,255,255,.5);
+
+/* Clip Background Image */
+
+	  background: url(http://f.cl.ly/items/010q3E1u3p2Q0j1L1S1o/animated_text_fill.png) repeat-y;
+	  -webkit-background-clip: text;
+	  background-clip: text;
+
+/* Animate Background Image */
+
+	  -webkit-text-fill-color: transparent;
+	  -webkit-animation: aitf 80s linear infinite;
+
+/* Activate hardware acceleration for smoother animations */
+
+	  -webkit-transform: translate3d(0,0,0);
+	  -webkit-backface-visibility: hidden;
+
+  }
+}
+
+/* Animate Background Image */
+
+@-webkit-keyframes aitf {
+	0% { background-position: 0% 50%; }
+	100% { background-position: 100% 50%; }
+}
+.our-projects ul{
+
+
+list-style: none;
+} /*
+.our-projects ul  li{
+
+margin-left: 50px;
+list-style: none;
+float: left;
+cursor: pointer;
+padding: 20px;
+}
+
+.our-projects ul li a{
+text-decoration: none;
+color:black;
+
+}
+
+.our-projects ul li:hover{
+background-color:#1abc9c;
+}*/
+.gallery{
+margin-top: 50px; 
+}
+.gallery img {
+display: block;
+width: 32%;
+height: 300px;
+background-size: cover;
+float: left;
+margin:.5% ;
+}
+.our-projects .mix{
+display: none;
+}
+
+iframe{
+display: block;
+width: 100%;
+height: 300px;
+background-size: cover;
+float: left;
+margin:.5% ;
+
+}
+.panel-1 {
+  background-color: blue;
+  -webkit-transform: skew(0deg, -6deg);
+  transform: skew(0deg, -6deg);
+  margin-top: 0px;
+  padding: 80px 40px 0;
+            height: 523px;
+    
+}
+
+
+
+footer{
+background-color: blue;
+color:#eee;
+padding:90px 0;
+margin-top:0px
+    
+}
+
+
+
+
+
+footer .col i{
+
+display: inline-block;
+color: #979797;
+width: 40px;
+padding: 10px;
+cursor:pointer;
+}
+
+
+
+    
+
+    
+ 
+    footer .copyright{
+        display: inline-block;
+margin-left: 40%;
+        
+
+    }
+    
+    }
+
+.text-area {
+  padding: 90px 0;
+}
+
+.text-area .title {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 50px;
+    font-family: 'Fugaz One', cursive;
+}
+
+.text-area .description {
+  color: #ffffff;
+font-family: 'Fugaz One', cursive;
+    font-weight: 300;
+  font-size: 16px;
+}
+
+.text-area-2 {
+  padding: 90px 0;
+}
+
+.text-area-2 .title {
+  color: #333333;
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.text-area-2 .description {
+  color: #333333;
+  font-family: 'rajdhani', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+
+
+
+    
+    @import url('https://fonts.googleapis.com/css?family=Rajdhani');
+
+
+
+
+
+
+
+.content {
+  -webkit-transform: skew(0deg, 6deg);
+  transform: skew(0deg, 6deg);
+}
+
+.text-area {
+  padding: 90px 0;
+    font-family: 'Fugaz One', cursive;
+}
+
+.text-area .title {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.text-area .description {
+  color: #ffffff;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.text-area-2 {
+  padding: 90px 0;
+    font-family: 'Fugaz One', cursive;
+}
+
+.text-area-2 .title {
+  color: #333333;
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.text-area-2 .description {
+  color: #333333;
+  font-family: 'rajdhani', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+/**footer {
+min-height: 300px;
+  font-family: 'rajdhani', sans-serif;
+  background-color:#102589;
+  margin-top: -80px;
+      transform: skew(0deg, 6deg);
+
+}*/
+footer i{
+    color: white;
+
+}
+  
+a {
+  color: rgba(255, 255, 255, 0.5);
+  display: inline-block;
+  margin: 20px;
+  position: relative;
+  text-decoration: none;
+  padding: 10px 0;
+    
+}
+a:hover:before {
+  width: 100%;
+}
+.projects a:before {
+  content: attr(data-text);
+  border-top: 3px solid black;
+  position: absolute;
+  left: 0;
+  top: -3px;
+  color: #FFF;
+  white-space: nowrap;
+width: 0%;
+  overflow: hidden;
+  padding: 10px 0;
+  transition: .4s;
+    font-family: 'Trocchi', serif;
+
+}
+p{
+    
+    color:white;
+} 
+
+/*.projects{
+   background-color:#666;
+    
+    
+} */
+
+.projects h2{
+padding-left: 101px; 
+    margin: 30px 0px 30px 0px;
+    
+    
+} 
+
+
+
+.fade:not(.show) {
+    opacity: 1;
+}
+
+
+.social_section i {
+margin-left: 20px;
+cursor: pointer;
+-webkit-transition: all .3s ease-in-out;
+-moz-transition: all .3s ease-in-out;
+-o-transition: all .3s ease-in-out;
+transition: all .3s ease-in-out;
+}
+
+.fa-twitter-square:hover {color: #1da1f2;}
+.fa-facebook-square:hover {color: #3b5998;}
+.fa-instagram:hover { color: #c13584;}
+.fa-google-plus:hover {color: #dd4b39;}
+.fa-pinterest:hover {color: #bd081c;}
+.fa-stumbleupon-circle:hover {color: #eb4924;}
+.fa-rss-square:hover {color: #f26522;}
+/* 
+
+
+<!-- End Social Media-->
+
+
+*/
+/*.hcc{
+    font-size:18px;
+    color: blue
+}*/
+
+
+
+/* <div  id="port" class="our-projects">
+<div class="container">
+
+<h2 class="special-heading"> projects</h2>
+<ul>
+
+<li class="filter" data-filter=".travel"> travel</li>
+<li class="filter" data-filter=".Coffee">Coffee</li>
+<li class="filter" data-filter=".Video" >Video</li>
+
+</ul>
+
+
+<div  id="container" class="gallery">
+<div class="mix All ">   
+<img src="../images/t2.jpeg" alt="">
+</div>
+
+<div class="mix travel ">   
+<img src="../images/t1.jpeg" alt="">
+</div>
+
+<div class="mix travel ">   
+<img src="../images/t1.jpeg" alt="">
+</div>
+
+
+
+<div class="mix All ">   
+<img src="../images/t1.jpeg" alt="">
+
+</div>
+
+
+       <div class="mix Coffee ">   
+
+<img src="../images/t6.jpeg" alt="">
+</div>
+
+
+        <div class="mix Coffee ">   
+
+<img src="../images/t6.jpeg" alt="">
+</div>
+
+
+
+
+
+       <div class="mix Video ">   
+<img src="../images/t1.jpeg" alt="">
+</div>
+
+        <div class="mix Video ">   
+<img src="../images/t1.jpeg" alt="">
+</div>
+
+</div>
+
+
+</div>
+
+</div>
+*/
+
+
+.services .item .info{
+width:300px;
+
+    }
+*=========================================
+Basic Style
+==========================================*/
+
+section ol, section ul {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+
+section a, section a:focus, a:hover {
+text-decoration: none;
+}
+
+section, .footer {
+padding: 70px 0;
+}
+
+
+/*=========================================
+Mix
+==========================================*/
+
+.work-filter {
+margin-bottom: 35px;
+}
+
+.work-filter ul li {
+display: inline-block;
+}
+
+.work-filter ul li a {
+color:black;
+display: block;
+padding: 5px 17px;
+    font-family: 'Fugaz One', cursive;
+}
+
+.work-filter ul li a:hover, .work-filter ul li a.active {
+background-color: blue;
+color: black;
+}
+
+
+.mix {
+display: none;
+}
+
+.work-item {
+float: none;
+width:29%;
+position: relative;
+margin:.5% ;
+}
+
+.work-item>img {
+
+
+display: block;
+width: 100%;
+height: 300px;
+background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+.project-wrapper {
+text-align:center;
+    margin-bottom:26px;
+}
+
+.navbar-expand-lg .navbar-collapse {
+float: left;
+}
+/*=========================================
+Media Queries
+==========================================*/
+
+
+our-team .box:not(:first-child) {
+    
+    float: left;
+    margin-right: 2%;
+    cursor: pointer;
+    position: relative;
+    transition: all 2s ease-in-out;
+}
+/*============================================================
+For Small Desktop
+==============================================================*/
+
+@media (min-width: 990px) and (max-width: 1150px) {
+       
+
+
+    
+    
+.our-team .box:not(:first-child) {
+    width: 14.25%;
+    float: left;
+    margin-right: 2%;
+    cursor: pointer;
+    position: relative;
+    transition: all 2s ease-in-out;
+}
+/* work */
+    
+    
+
+}
+@media (min-width: 980px) and (max-width: 990px) {
+    .services .item i{
+
+ 
+font-size: 25px;
+}
+    
+    .services .item .info p {
+    font-size:15px;
+        width: 75%
+}
+    .front,h3{
+        
+            font-size:15px;
+        width: 75%
+
+    } 
+    
+      .front,h3{
+        
+            font-size:15px;
+        width: 75%
+
+    } 
+    .services .item i {
+    color: blue;
+    float: left;
+    width: 88%;
+    padding: 103px 0px 0px 0px; 
+}
+    
+    .services .item .front h3 ,.hp{
+    font-size: 15px;
+        width: 82%;
+}
+    
+    
+}
+
+/*============================================================
+Tablet (Portrait) Design for a width of 768px
+==============================================================*/
+@media   (min-width: 980px) and (max-width: 1333px)             {
+    
+   
+   .our-team .box:not(:first-child) {
+    width: 14.25%;
+    float: left;
+    margin-right: 2%;
+    cursor: pointer;
+    position: relative;
+    transition: all 2s ease-in-out;
+}
+    a{
+        margin:0px; 
+    }    
+    
+}
+@media (min-width: 768px) and (max-width: 979px) {
+ 
+    
+      .navbar-light .navbar-nav .nav-link{
+    
+        font-size: 13px;
+        padding: 0;
+        margin: 0;
+
+    }
+     .panel-1 {
+
+    margin-top: 77px;
+    
+}
+    
+    a{
+        margin:0px; 
+    }
+.services .item{
+
+width:45%;
+
+}
+        .services .item .info{
+width:300px;
+
+    }
+   .container{
+width: 1600px;
+
+
+} 
+    
+/* work */
+
+.work-item {
+float: left;
+width: 31%;
+}
+    .panel-2 .our-team{
+        
+        background-color: firebrick;
+        width: 100%;
+        height: 444px
+    }
+    .our-team #box1{
+        width: 100%;
+        color: darkviolet
+        
+    }
+    .our-team .box:first-child{
+        
+        width: 100%
+    }
+     .our-team .box{
+        
+margin: 0px 0px;  
+         overflow: visible;
+    }
+    .our-team .box:not(:first-child) {
+    width: 18.25%;
+    float: left;
+    margin-right: 2%;
+    cursor: pointer;
+    position: relative;
+    transition: all 2s ease-in-out;
+}
+    
+    .our-team .box img{
+        
+       margin-left: 0px;
+        width: 100%;
+    }
+    
+       .project-wrapper {
+    text-align: center;
+    margin-bottom: 905px;
+}
+}
+
+
+
+/*============================================================
+Mobile (Portrait) Design for a width of 320px
+==============================================================*/
+
+@media only screen and (max-width: 767px) {
+    
+    .fa-google-plus:before,.fa-instagram:before,.fa-facebook-square:before,.fa-twitter-square:before,.fa-stumbleupon-circle:before,.fa-rss-square:before,.fa-pinterest:before {
+        font-size: 38px
+}
+    
+    a{
+        margin:0px; 
+    }
+    .navbar-light .navbar-nav .nav-link{
+    
+        font-size: 13px;
+        padding: 0;
+        margin: 0;
+
+    }
+    .panel-1 {
+
+    margin-top: 68px;
+    
+}
+    
+    
+navbar-light .navbar-nav .nav-link {
+   background-color: red;
+    width: 100%;
+    float: right;
+    color: red
+         font-size: 11px;
+        padding: 0;
+        margin: 0;
+        
+        
+}
+    
+    a{margin: 0px}
+/* work */
+
+.work-item {
+float: left;
+left: 5% !important;
+width: 90%;
+}
+   .project-wrapper {
+    text-align: center;
+    margin-bottom: 668px;
+}
+}
+
+
+/*============================================================
+Mobile (Landscape) Design for a width of 480px
+==============================================================*/
+
+@media only screen and (min-width: 585px) and (max-width: 767px) {
+    
+a{
+        margin:0px; 
+    }
+    .services .item .info p{
+        font-size: 14px;
+        color: blue;
+        
+    }
+    .services .item .info{
+width:270px;
+
+    }
+    .services {
+        background-color:brown;
+        font-size: 18px;
+        color: red;
+    }
+    .services .item .front h3{
+         font-size: 18px;
+                padding-right: 10px;
+
+            
+    }
+    
+    .services h2{
+        font-size: 22px;
+   color: forestgreen; 
+width: 100%;
+        margin-right: 30%;
+        text-align: center
+    }
+    .fa-cogs:before,.fa-file-alt:before,.fa-laptop-code:before,.fa-google:before,.fa-search-plus:before,.fa-star:before{
+        font-size: 36px;
+    }
+.services .item{
+width:280px;
+margin-right: 300px;
+margin-left: 80px
+
+}
+/* work */
+
+.work-item {
+left: inherit !important;
+
+    
+    width: 33%;
+    margin: auto;
+    
+}
+ .services .item .info h3{
+        font-size: 17px;
+        87%
+    }
+ .services .item  i{
+        
+        width:85%;
+    }
+.panel-2 .our-team{
+        
+        background-color: gold;
+        width: 100%;
+        height: 444px
+    }
+    .our-team #box1{
+        width: 100%;
+        color: darkviolet
+        
+    }
+    .our-team .box:first-child{
+        
+        width: 100%
+    }
+     .our-team .box{
+        
+margin: 0px 0px;  
+         overflow: visible;
+         width: 18.25%;
+         width: 20.25%;
+    float: left;
+    margin-right: 2%;
+    cursor: pointer;
+    position: relative;
+    transition: all 2s ease-in-out;
+    }
+    
+    
+    .our-team .box img{
+        margin-right: 20px;
+       margin-left: 0px;
+        width: 100%;
+    }
+    
+    our-team .box:not(:first-child) {
+    width: 20.25%;
+    float: left;
+    margin-right: 2%;
+    cursor: pointer;
+    position: relative;
+    transition: all 2s ease-in-out;
+}
+    .project-wrapper {
+    text-align: center;
+    margin-bottom: 905px;
+}
+  
+    
+}
+@media only screen and (min-width: 444px) and (max-width: 584px) {
+    
+         .fa-google-plus:before,.fa-instagram:before,.fa-facebook-square:before,.fa-twitter-square:before,.fa-stumbleupon-circle:before,.fa-rss-square:before,.fa-pinterest:before {
+        font-size: 25px
+}
+  
+    
+    a{
+        margin:0px; 
+    }
+    
+    .container {
+     width: 371px;
+    margin: auto;
+}
+    
+.panel-1 {
+  
+    padding: 17px 40px 0;
+   
+}
+        #dots-wrapper {
+   
+        bottom: 9px;}
+    .center_x {
+    position: relative;
+    left: 49%;
+    
+}
+  
+    
+      .work-filter ul li a{
+            padding: 5px 5px;
+        background-color: red
+        
+    }
+     .work-filter ul li #disapper{
+        
+        display: none;
+        margin-right: 22px;
+    }
+    .work-item>img {
+    display: block;
+    width: 100%;
+    height: 200px;
+margin-left: 0%}
+    .ytp-cued-thumbnail-overlay-image{
+        margin-left: 40%
+        
+    }
+    section, .footer {
+    margin-bottom: 0px;
+}
+    
+    
+    .services {
+       /* background-color:olivedrab;*/
+       
+    }
+     .services h2{
+        font-size: 22px;
+   color: forestgreen; 
+width: 100%;
+       
+    }
+    
+    .services .item .info p{
+        font-size: 14px;
+        color: blue;
+        
+    }
+    .services .item .info{
+width:270px;
+
+    }
+  
+    .services .item .front h3{
+         font-size: 18px;
+                padding-right: 10px;
+
+            
+    }
+    
+   
+    .fa-cogs:before,.fa-file-alt:before,.fa-laptop-code:before,.fa-google:before,.fa-search-plus:before,.fa-star:before{
+        font-size: 36px;
+    }
+.services .item{
+width:280px;
+margin-right: 300px;
+margin-left: 15px
+
+}
+/* work */
+
+.work-item {
+left: inherit !important;
+width: 30%;
+}
+ .services .item .info h3{
+        font-size: 17px;
+        
+    }
+
+    
+    .services .item  i{
+        
+        width:85%;
+    }
+
+    
+    
+    
+    
+    
+    .panel-2 .our-team{
+        
+       /* background-color: blueviolet;*/
+        width: 100%;
+        height: 444px
+    }
+    .our-team #box1{
+        width: 100%;
+        color: darkviolet
+        
+    }
+    .our-team .box:first-child{
+        
+        width: 100%
+    }
+     .our-team .box{
+        
+margin: 0px 0px;  
+         overflow: visible;
+    }
+    
+    
+    .our-team .box img{
+        
+       margin-left: 0px;
+        width: 100%;
+    }
+    
+    
+    
+     our-team .box:not(:first-child) {
+    width: 9.25%;
+    margin-right: 2%;
+    }
+    
+    
+    .our-team .box:not(:first-child) {
+    width: 23%;
+    float: left;
+    margin-right: 2%;
+    cursor: pointer;
+    position: relative;
+        transition: all 2s ease-in-out;}
+    .our-team .box h2 {
+    margin-top: 0px;
+        font-size: 22px;
+}
+    
+    .slide {
+    width: 100%;
+    height: 100%;
+      /*  background-color: firebrick*/
+}
+    
+    #arrow-next {
+    right: 0%;
+    position: absolute;
+}
+    
+   .navbar-light .navbar-nav .nav-link{
+    
+        font-size: 13px;
+       
+
+    } 
+    a{
+        margin: 0;
+        padding: 0;
+    }
+    .navbar{
+        margin-right: 10%
+            margin:0;
+        padding: 0;
+            
+    }
+   
+    
+    .navbar-light .navbar-nav .nav-link{
+     width: 250%;
+        
+
+
+    }
+    .text-area .title {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 30px;
+}
+    
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 443px) {
+    
+    .navbar-light .navbar-nav .nav-link{
+     
+        float: left;
+       
+
+    }
+      .navbar-light .navbar-nav .nav-link{
+     
+        float: left;
+            background-color: red;
+        margin-right: 120%;
+       width: 80%;
+
+
+    }
+
+    
+    a{
+        margin:0px; 
+    }
+    
+    
+    
+    .navbar-light .navbar-nav .nav-link{
+    
+        font-size: 13px;
+       
+
+    }
+    #dots-wrapper {
+   
+        bottom: 9px;}
+    .center_x {
+    position: relative;
+    left: 20%;
+    
+}
+    
+    .slide {
+    width: 30%;
+    height: 100%;
+}
+    
+    #arrow-next {
+    right: 68%;
+    position: absolute;
+}
+    
+    
+       .project-wrapper {
+    text-align: center;
+    margin-bottom: 0px;
+}
+    .work-filter ul li a{
+            padding: 5px 5px;
+        background-color: red
+        
+    }
+    
+    services h2{
+        font-size: 22px;
+   color: forestgreen;
+        padding-right:20%
+
+    
+    }
+    .services {
+        background-color:black;
+        font-size: 18px;
+        color: red
+    }
+    .services .item{
+width:250px;
+margin-right: 320px;
+margin-left: 22px
+
+}
+    .services .item .info p{
+        font-size: 10px;
+        color: red;
+    }
+    .services .item .info{
+        width:250px;
+
+    }
+    
+    .panel-2 .our-team{
+        
+        background-color:blue;
+        width: 100%;
+        height: 444px
+    }
+    .our-team #box1{
+        width: 100%;
+        color: darkviolet
+        
+    }
+    .our-team .box:first-child{
+        
+        width: 100%
+    }
+     .our-team .box{
+        
+margin: 0px 0px;  
+         overflow: visible;
+    }
+    
+    
+    .our-team .box img{
+        
+       margin-left: 0px;
+        width: 100%;
+    }
+    
+    .our-team .box:not(:first-child) {
+    width: 10.25%;
+    float: left;
+     margin-right: 0%; 
+    cursor: pointer;
+    position: relative;
+    transition: all 2s ease-in-out;
+}
+    
+    
+    
+    
+    our-team .box:not(:first-child) {
+    width: 9.25%;
+    float: left;
+    margin-right: 2%;
+    }
+    
+    slide {
+    width: 50%;
+    height: 100%;
+        color: firebrick
+}
+    
+       
+    .panel-1 {
+  
+    padding: 17px 40px 0;
+   
+}
+ 
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255,255,255);
+    color: white
+}

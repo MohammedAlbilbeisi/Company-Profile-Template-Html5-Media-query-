@@ -1,0 +1,208 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <!--Start meta-Section-->
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="keywords" content=" Al Jazeera">
+    <meta name="description" content="Description of your site">
+    <!--End meta-Section-->
+
+    <title>Mohammed Zeyad</title>
+
+        
+        
+        <meta charset="utf-8">
+        <title> Mohammed Zeyad</title>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+
+
+        <!-- Start linkes files-->
+            
+
+        <!-- End linkes files-->
+<link href="https://fonts.googleapis.com/css?family=Fugaz+One|Ultra&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Bungee+Inline|Graduate|Kelly+Slab|Norican|Pacifico|Trocchi|Vidaloka|Viga" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Staatliches|Teko&display=swap" rel="stylesheet">
+    
+    <link href="https://fonts.googleapis.com/css?family=Medula+One|Staatliches|Teko&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Gugi|Medula+One|Staatliches|Teko&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Gugi|Ma+Shan+Zheng|Mouse+Memoirs|Staatliches|Teko|Zhi+Mang+Xing&display=swap" rel="stylesheet">
+
+    
+    <link href="https://fonts.googleapis.com/css?family=Gugi|Ma+Shan+Zheng|Mouse+Memoirs|Puritan|Staatliches|Teko|Zhi+Mang+Xing&display=swap" rel="stylesheet">
+        
+        
+    <!--Start Links-Section -->
+
+    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <!-- Start Google Fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Bungee+Inline|Graduate|Kelly+Slab|Norican|Pacifico|Trocchi|Vidaloka|Viga" rel="stylesheet">
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <!--End Google Fonts-->
+
+    <!--End Links-Section -->
+
+        
+        
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>                
+        <link rel="stylesheet" href="../Css/3DCSSTypography.css">
+
+        
+                <link rel="stylesheet" href="../Css/style.css">
+
+    </head>
+    
+    <!--Start body-->
+    
+    <body> 
+        
+
+     
+        
+        
+      <!--End nav-->
+      
+   
+      <!--<nav> 
+<div class="container">
+    <div class="loge">
+       <span>
+White Knights     
+  </span> 
+    </div>
+<ul class="links">
+ <li><a href="#" data-text="Homepage">Homepage</a></li>  
+ <li><a href="#" data-text="Products">Products</a></li>  
+ <li><a href="#" data-text="Services">Services</a></li>  
+ <li><a href="#" data-text="Contact Us">Contact</a></li>  
+</ul>
+</div>
+</nav>-->
+        
+        
+        
+        
+        
+        
+        
+<section class="nav-bar"> 
+<nav class="navbar navbar-expand-lg navbar-light ">
+<a class="navbar-brand" href="#">
+  <span>
+ 
+    </span>
+    
+    <div class="stage">
+  <div class="layer"></div>
+ 
+
+</div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarNav">
+<ul class="navbar-nav ">
+<li class="nav-item ">
+<a class="nav-link" href="#" data-value="Our">Our Team </a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="#" data-value="Proj">Projects</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="#" data-value="Ser">Services</a>
+</li>
+<li class="nav-item">
+<a class="nav-link " href="#" data-value="Testimonias">Testimonias</a>
+</li>
+<li class="nav-item">
+<a class="nav-link " href="#" data-value="Contact">Contact</a>
+</li>
+</ul>
+</div>
+</nav>
+</section>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+     
+
+      
+      
+      
+      
+      </body>
+    <!--End body-->
+</html>
